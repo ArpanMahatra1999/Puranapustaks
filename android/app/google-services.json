@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "629709844189",
+    "firebase_url": "https://puranapustaks-2ed12.firebaseio.com",
+    "project_id": "puranapustaks-2ed12",
+    "storage_bucket": "puranapustaks-2ed12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629709844189:android:344585aeb9c91676aef534",
+        "android_client_info": {
+          "package_name": "com.example.puranapustaks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629709844189-i8r22koh83et5lbho2jsbarm6ehe2idh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.puranapustaks",
+            "certificate_hash": "a3733f74c68279bad00295b0bdf61f2a6903ed87"
+          }
+        },
+        {
+          "client_id": "629709844189-efhc57ujnbrd10tk0m2nfh5eqc4g95u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkQ66MvNZVpx1jUNmdynuNZNVj1gt3QDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629709844189-efhc57ujnbrd10tk0m2nfh5eqc4g95u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
